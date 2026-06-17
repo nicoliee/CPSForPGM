@@ -1,0 +1,5 @@
+name: CPSForPGM
+version: '1.0.0'
+main: org.nicolie.cpsforpgm.CPSForPGM
+api-version: '1.21'
+depend: [PGM, packetevents]
